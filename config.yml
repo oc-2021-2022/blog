@@ -1,0 +1,60 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Chez Callan
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+  env: development # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Allan Cerveaux - https://github.com/"
+  author: Allan Cerveaux
+  defaultTheme: auto
+  ShowShareButtons: true
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  homeInfoParams:
+      Title: "Hello I'm Allan Cerveaux 👋"
+  socialIcons:
+    - name: Github
+      url: "https://github.com/AllanCerveaux"
+    - name: Twitter
+      url: "https://twitter.com/CerveauxAllan"
+    - name: Linkedin
+      url: "https://www.linkedin.com/in/allancerveaux/"
+    - name: RsS
+      url: "index.xml"
+  editPost:
+      URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: true
+
+menu:
+  main:
+    - identifier: presentation
+      name: Présentation
+      url: /presentations/
+      weight: 1
+    - identifier: posts
+      name: Articles
+      url: /posts/
+      weight: 2
