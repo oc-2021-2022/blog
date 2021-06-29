@@ -18,7 +18,7 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
         with:
-          ref: AllanCerveaux
+          ref: gh-pages
 
       - name: Get Theme
         run: git submodule update --init --recursive
