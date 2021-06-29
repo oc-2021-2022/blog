@@ -38,4 +38,4 @@ Distribué sous la licence MIT. Voir `LICENCE` pour plus d'informations.
 ___
 [@CerveauxAllan]("https://twitter.com/CerveauxAllan") - [cerveauxallanjean@gmail.com]("cerveauxallanjean@gmail.com")
 
-Liens du projet: [https://oc-2021-2022.github.io/P2_Allan_Cerveaux](https://oc-2021-2022.github.io/P2_Allan_Cerveaux/)
+Liens du projet: [https://oc-2021-2022.github.io/blog](https://oc-2021-2022.github.io/blog/)
