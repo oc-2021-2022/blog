@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Chez Callan</title>
-    <link>http://example.org/posts/</link>
+    <link>https://oc-2021-2022.github.io/blog/posts/</link>
     <description>Recent content in Posts on Chez Callan</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>FR-fr</language>
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://oc-2021-2022.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
