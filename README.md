@@ -12,9 +12,7 @@
 ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCerveauxAllan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/allancerveaux/)
 
-[Reversia](https://oc-2021-2022.github.io/blog/) est outils permettant la plannification des vaccances dans une ville choisis.
-
-<img src="./maquettes/Desktop.png" alt="Website Template" width=500 />
+[Blog](https://oc-2021-2022.github.io/blog/) est outils permettant stocker toutes mes présentations pour les soutenances.
 
 ## Requirement 🧰 
 ___
