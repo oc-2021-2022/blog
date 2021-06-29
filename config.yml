@@ -25,7 +25,7 @@ params:
   description: "Allan Cerveaux - https://github.com/"
   author: Allan Cerveaux
   defaultTheme: auto
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   displayFullLangName: true
   ShowPostNavLinks: true
