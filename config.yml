@@ -35,7 +35,7 @@ params:
   profileMode:
     enabled: true
     title: "Hello I'm Allan Cerveaux 👋" # optional default will be site title
-    subtitle: "Devlopper Web"
+    subtitle: "Développeur Web / Web Mobile"
   socialIcons:
     - name: Github
       url: "https://github.com/AllanCerveaux"
