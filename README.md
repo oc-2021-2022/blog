@@ -7,7 +7,7 @@
 ![code-size](https://img.shields.io/github/languages/code-size/oc-2021-2022/blog)
 
 [![Minimum Hugo Version](https://img.shields.io/static/v1?label=min-HUGO-version&message=0.82.0&color=blue&logo=hugo)](https://github.com/gohugoio/hugo/releases/tag/v0.82.0)
-[![hugo-papermod](https://img.shields.io/badge/Hugo--Themes-@PaperMod-blue)](https://themes.gohugo.io/hugo-papermod/) | [![reveal-hugo](https://img.shields.io/badge/Hugo--Themes-@reveal--hugo-blue)](https://themes.gohugo.io/reveal-hugo/)
+[![hugo-papermod](https://img.shields.io/badge/Hugo--Themes-@PaperMod-blue)](https://themes.gohugo.io/hugo-papermod/) [![reveal-hugo](https://img.shields.io/badge/Hugo--Themes-@reveal--hugo-blue)](https://themes.gohugo.io/reveal-hugo/)
 
 ![twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FCerveauxAllan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/allancerveaux/)
