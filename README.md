@@ -16,7 +16,7 @@
 
 ## Requirement 🧰 
 ___
-- hugo : `0.84.3>`
+- hugo : `0.82.0>`
 
 ## Installation 🚀
 ___
