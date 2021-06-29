@@ -32,8 +32,10 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
-  homeInfoParams:
-      Title: "Hello I'm Allan Cerveaux 👋"
+  profileMode:
+    enabled: true
+    title: "Hello I'm Allan Cerveaux 👋" # optional default will be site title
+    subtitle: "Devlopper Web"
   socialIcons:
     - name: Github
       url: "https://github.com/AllanCerveaux"
@@ -50,11 +52,13 @@ params:
 
 menu:
   main:
-    - identifier: presentation
-      name: Présentation
-      url: /presentations/
-      weight: 1
-    - identifier: posts
-      name: Articles
+    - identifier: présentation
+      name: Slides
       url: /posts/
       weight: 2
+
+outputFormats:
+  Reveal:
+    baseName: index
+    mediaType: text/html
+    isHTML: true
