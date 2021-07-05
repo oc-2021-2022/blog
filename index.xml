@@ -2,11 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chez Callan</title>
-    <link>https://oc-2021-2022.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Chez Callan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>FR-fr</language>
-    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://oc-2021-2022.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/1-body/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/1-body/</guid>
+      <description>Sommaire  Architecture du projet Git &amp;amp; Github Technique Demonstration Conclusion  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/2-architecture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/2-architecture/</guid>
+      <description> Architecture du projet  Workspace . ├── .github │ └── workflows ├── dist ├── maquettes ├── src │ ├── images │ ├── style │ │ └── main.css │ └── index.html ├── .editorconfig ├── .gitignore ├── README.md └── package.json   Utilisation de parcel  Empaqueteur d&amp;rsquo;application web, sans configuration
+ Principal utilité :
+ Hot Reload Minifieur Build pour le déploiment automatiser   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/3-git-github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/3-git-github/</guid>
+      <description> Git &amp;amp; Github  Gestion des Objectifs et Tâches  Objectifs à atteindre -&amp;gt; Millestones Tâches -&amp;gt; Issues Kanban -&amp;gt; Board Github   Gestion du projet avec GIT/GITHUB Gestion du projet avec plusieurs branche :
+ master gh-pages feature/XXX fix/XXX   Github-Action  Automatisation de tâches (CI/CD)
+ Principal utilité:
+ Simple à configurer pour utilisation basique Déploiment automatiser sur la GH-Pages   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/4-technique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/4-technique/</guid>
+      <description>Techniques  Mobile First  Consiste à développer sur la version mobile puis sur les écran plus large
+  Reset CSS  Supprimer le style par default sur tout les navigateur
+ Les avantages :
+ Repartir sur une base neutre éviter les différences d&amp;rsquo;affichage   Reset CSS les inconvénients :
+ Perte de la sémantique offert par les navigateurs oublie de réappliquer un style minimum pour chaques éléments   Variables CSS  Définit des valeurs spécific au css.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/conclusion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/blog/slides/transformez-une-maquette-en-site-web/conclusion/</guid>
+      <description>Demontrations  En Conclusion  Merci </description>
+    </item>
+    
+    
     
   </channel>
 </rss>
