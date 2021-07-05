@@ -1,4 +1,4 @@
-baseURL: https://oc-2021-2022.github.io/blog/
+baseURL: http://localhost:1313/blog/
 languageCode: FR-fr
 title: Chez Callan
 theme: "PaperMod"
@@ -49,16 +49,21 @@ params:
       URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
       Text: "Suggest Changes" # edit text
       appendFilePath: true
-
-menu:
-  main:
-    - identifier: présentation
-      name: Slides
-      url: /posts/
-      weight: 2
-
+  reveal_hugo:
+    highlight_theme: "github"
+# menu:
+#   main:
+#     - identifier: articles
+#       name: Articles
+#       url: /posts/
+#       weight: 0
+# Hugo Config
 outputFormats:
   Reveal:
     baseName: index
     mediaType: text/html
     isHTML: true
+
+markup:
+  highlight:
+    codeFences: false
